@@ -1,5 +1,9 @@
-#logo {
-	max-width: 100%;
-	max-height: 100%;
-	display: block;
+.container .row-header{
+	background: #f8f8f8;
+}
+.navbar{
+	border: none;
+}
+.block-logo{
+	display: inline-block;
 }
